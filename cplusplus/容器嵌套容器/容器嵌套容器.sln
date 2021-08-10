@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "容器嵌套容器", "容器嵌套容器\容器嵌套容器.vcxproj", "{27CF93FE-5AC6-4C42-89AA-D2FB8A8A7EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CF93FE-5AC6-4C42-89AA-D2FB8A8A7EF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27CF93FE-5AC6-4C42-89AA-D2FB8A8A7EF7}.Debug|Win32.Build.0 = Debug|Win32
+		{27CF93FE-5AC6-4C42-89AA-D2FB8A8A7EF7}.Release|Win32.ActiveCfg = Release|Win32
+		{27CF93FE-5AC6-4C42-89AA-D2FB8A8A7EF7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
